@@ -36,6 +36,17 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ctm.pdf" style="text-decoration:none;"> Climbing the Mountain - Biography of Schwinger by Mehra et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_sm.pdf" style="text-decoration:none;"> Quantum Field Theory and Standard Model, Schwartz </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/adscft1.pdf" style="text-decoration:none;"> Introduction to AdS/CFT correspondence, Nastase </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/clqg.pdf" style="text-decoration:none;"> Covariant Loop Quantum Gravity, Rovelli et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/knapp.pdf" style="text-decoration:none;"> Advanced Real Analysis, Knapp </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mussardo.pdf" style="text-decoration:none;"> Statistical Field Theory, Mussardo  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gtop.pdf" style="text-decoration:none;"> Geometry, Topology, and Physics, Nakahara  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/localQP.pdf" style="text-decoration:none;"> Local Quantum Physics [Fields, Particles, and Algebras], Haag   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/quantumgeo.pdf" style="text-decoration:none;"> Quantum Geometry, Ambjorn et al.   </a></li>
+
+
+                
+
+                
 
 
                 
