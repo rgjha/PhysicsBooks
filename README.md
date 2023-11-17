@@ -25,6 +25,20 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gqs.pdf" style="text-decoration:none;"> Geometry of Quantum States </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_wein.pdf" style="text-decoration:none;"> Lectures on Quantum Mechanics, S. Weinberg </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc_sa.pdf" style="text-decoration:none;"> Quantum Computing since Democritus, Aaronson </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/kaye.pdf" style="text-decoration:none;"> An Introduction to Quantum Computing, Kaye et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/engel.pdf" style="text-decoration:none;"> Problem-Solving Strategies, Engel </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/heisenberg.pdf" style="text-decoration:none;"> PPhysics and Philosophy, Heisenberg </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/horowitz.pdf" style="text-decoration:none;"> Black Holes in Higher Dimensions, Horowitz </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/menon.pdf" style="text-decoration:none;"> Renormnalization Group Theory, Menon </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_sred.pdf" style="text-decoration:none;"> Quantum Field Theory, Srednicki </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/shuryak.pdf" style="text-decoration:none;"> QCD Vacuum, Hadrons, and Superdense matter, Shuryak </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/tung.pdf" style="text-decoration:none;"> Solutions to Problems in Group Theory by Tung </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ctm.pdf" style="text-decoration:none;"> Climbing the Mountain - Biography of Schwinger by Mehra et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_sm.pdf" style="text-decoration:none;"> Quantum Field Theory and Standard Model, Schwartz </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/adscft1.pdf" style="text-decoration:none;"> Introduction to AdS/CFT correspondence, Nastase </a></li>
+
+
+                
 
 
                 
