@@ -27,7 +27,7 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc_sa.pdf" style="text-decoration:none;"> Quantum Computing since Democritus, Aaronson </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/kaye.pdf" style="text-decoration:none;"> An Introduction to Quantum Computing, Kaye et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/engel.pdf" style="text-decoration:none;"> Problem-Solving Strategies, Engel </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/heisenberg.pdf" style="text-decoration:none;"> PPhysics and Philosophy, Heisenberg </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/heisenberg.pdf" style="text-decoration:none;"> Physics and Philosophy, Heisenberg </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/horowitz.pdf" style="text-decoration:none;"> Black Holes in Higher Dimensions, Horowitz </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/menon.pdf" style="text-decoration:none;"> Renormnalization Group Theory, Menon </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_sred.pdf" style="text-decoration:none;"> Quantum Field Theory, Srednicki </a></li>
@@ -42,6 +42,25 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gtop.pdf" style="text-decoration:none;"> Geometry, Topology, and Physics, Nakahara  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/localQP.pdf" style="text-decoration:none;"> Local Quantum Physics [Fields, Particles, and Algebras], Haag   </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/quantumgeo.pdf" style="text-decoration:none;"> Quantum Geometry, Ambjorn et al.   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/narlikar.pdf" style="text-decoration:none;"> An Introduction to Relativity, Narlikar   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qtf1.pdf" style="text-decoration:none;"> Quantum Theory of Fields Volume 1, Weinberg   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qtf2.pdf" style="text-decoration:none;"> Quantum Theory of Fields Volume 2, Weinberg   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/wald.pdf" style="text-decoration:none;"> General Relativity, Wald   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/manton.pdf" style="text-decoration:none;"> Topological Soliton, Manton et al.   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gattringer.pdf" style="text-decoration:none;"> Quantum Chromodynamics on the Lattice, Gattringer et al.   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ggd.pdf" style="text-decoration:none;"> Gauge/Gravity Duality, Ammon et al.   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sterman.pdf" style="text-decoration:none;"> Quantum Field Theory, Sterman   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cft1.pdf" style="text-decoration:none;"> Conformal Field Theory, Di Francesco et al.   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cardy.pdf" style="text-decoration:none;"> Scaling and Renormalization in Physics, Cardy   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/terning.pdf" style="text-decoration:none;"> Modern Supersymmetry, Terning   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpt_carr.pdf" style="text-decoration:none;"> Understanding Quantum Phase Transitions, Carr   </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pi_rivers.pdf" style="text-decoration:none;"> Path Integral method in quantum field theory, Rivers  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brussel.pdf" style="text-decoration:none;"> Introduction to Mathematical Philosophy, Bertrand Russel  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/krauth.pdf" style="text-decoration:none;"> Statistical Mechanics: Algorithms and Computations, Krauth </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/kardar.pdf" style="text-decoration:none;"> Statistical Physics of Fields, Kardar </a></li>
+
+
+                
 
 
                 
