@@ -58,6 +58,18 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brussel.pdf" style="text-decoration:none;"> Introduction to Mathematical Philosophy, Bertrand Russel  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/krauth.pdf" style="text-decoration:none;"> Statistical Mechanics: Algorithms and Computations, Krauth </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/kardar.pdf" style="text-decoration:none;"> Statistical Physics of Fields, Kardar </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ruelle.pdf" style="text-decoration:none;"> Statistical Mechanics - Rigorous Results, Ruelle </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gt_zee.pdf" style="text-decoration:none;"> Group Theory in a Nutshell for Physicists - Zee </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_mm.pdf" style="text-decoration:none;"> Quantum Fields on a lattice, Montvay et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/lss_he.pdf" style="text-decoration:none;"> The large scale structure of space-time, Hawking and Ellis </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/blackholes_sc.pdf" style="text-decoration:none;"> The Mathematical Theory of Black Holes, S. Chandrasekhar </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/baxter.pdf" style="text-decoration:none;"> Exactly solved models in Statistical Mechanics, Baxter </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/msc_levy.pdf" style="text-decoration:none;"> Magenetism and Superconductivity, Levy </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/altland.pdf" style="text-decoration:none;"> Condensed Matter Field Theory, Altland et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_nair.pdf" style="text-decoration:none;"> Quantum Field Theory, V.P.Nair </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_ga.pdf" style="text-decoration:none;"> Quantum Field Theory for the Gifted Amateur, Lancaster et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/becker_st.pdf" style="text-decoration:none;"> String Theory and M-theory, Becker et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/st_vol1.pdf" style="text-decoration:none;"> String Theory Volume 1, Polchinski </a></li>
 
 
                 
