@@ -1,16 +1,10 @@
-
 <ul>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ang1.pdf" style="text-decoration:none;"> Quantum
-                Theory of Angular Momentum, Varshalovich et al.  </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bie.pdf" style="text-decoration:none;"> Angular Momentum
-                in Quantum Physics, Biedenharn et al.  </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sr.pdf" style="text-decoration:none;"> Collected Papers of
-                Srinivasa Ramanujan  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ang1.pdf" style="text-decoration:none;"> Quantum Theory of Angular Momentum, Varshalovich et al.  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bie.pdf" style="text-decoration:none;"> Angular Momentum in Quantum Physics, Biedenharn et al.  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sr.pdf" style="text-decoration:none;"> Collected Papers of Srinivasa Ramanujan  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/man.pdf" style="text-decoration:none;"> Quantum Computing for Computer Scientists  </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpt.pdf" style="text-decoration:none;"> Quantum Phase Transitions, 
-                Sachdev </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ps.pdf" style="text-decoration:none;"> Problems and Solutions 
-                in Quantum Computation, Steeb et al </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpt.pdf" style="text-decoration:none;"> Quantum Phase Transitions, Sachdev </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ps.pdf" style="text-decoration:none;"> Problems and Solutions in Quantum Computation, Steeb et al </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc1.pdf" style="text-decoration:none;"> Quantum Computing with Python and IBM Quantum Experience, Loredo et al </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/nc.pdf" style="text-decoration:none;"> Quantum Computation and Quantum Information, Nielsen and Chuang </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft2.pdf" style="text-decoration:none;"> Quantum Field Theory II, Shifman </a></li>
@@ -83,16 +77,25 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/makeenko.pdf" style="text-decoration:none;"> Methods of Contemporary Gauge Theory, Makeenko </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_zee.pdf" style="text-decoration:none;"> QFT in a Nutshell, Zee</a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/creutz.pdf" style="text-decoration:none;"> Quarks, Gluons, and Lattices, Creutz </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/banks.pdf" style="text-decoration:none;"> Modern Quantum Field Theory, Banks </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/freedman.pdf" style="text-decoration:none;"> Supergravity, Freedman et al. </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/thorlacius.pdf" style="text-decoration:none;"> M-theory and Quantum Geometry, Edited by Thorlacius et al. </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/wipf.pdf" style="text-decoration:none;"> Statistical Approach to Quantum Field Theory, Wipf </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dine.pdf" style="text-decoration:none;"> Supersymmetry and String Theory, Dine </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/zaanen.pdf" style="text-decoration:none;"> Holographic Duality in Condensed Matter Physics, Zaanen et al. </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/collins.pdf" style="text-decoration:none;"> Renormalization, Collins </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cft_blumenhagen.pdf" style="text-decoration:none;"> Introduction to Conformal Field Theory, Blumenhagen et al. </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/rajaraman.pdf" style="text-decoration:none;"> Solitons and Instantons, Rajaraman </a></li>
-                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dirac.pdf" style="text-decoration:none;"> General Theory of Relativity, Dirac </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/banks.pdf" style="text-decoration:none;"> Modern Quantum Field Theory, Banks </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/freedman.pdf" style="text-decoration:none;"> Supergravity, Freedman et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/thorlacius.pdf" style="text-decoration:none;"> M-theory and Quantum Geometry, Edited by Thorlacius et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/wipf.pdf" style="text-decoration:none;"> Statistical Approach to Quantum Field Theory, Wipf </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dine.pdf" style="text-decoration:none;"> Supersymmetry and String Theory, Dine </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/zaanen.pdf" style="text-decoration:none;"> Holographic Duality in Condensed Matter Physics, Zaanen et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/collins.pdf" style="text-decoration:none;"> Renormalization, Collins </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cft_blumenhagen.pdf" style="text-decoration:none;"> Introduction to Conformal Field Theory, Blumenhagen et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/rajaraman.pdf" style="text-decoration:none;"> Solitons and Instantons, Rajaraman </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dirac.pdf" style="text-decoration:none;"> General Theory of Relativity, Dirac </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/nastase1.pdf" style="text-decoration:none;"> String Theory Methods for Condensed Matter Physics, Nastase </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/thooft.pdf" style="text-decoration:none;"> The Cellular Automaton Interpretation of Quantum Mechanics, 't Hooft </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/natsuume.pdf" style="text-decoration:none;"> AdS/CFT Duality - User Guide, Natsuume </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/kogut.pdf" style="text-decoration:none;"> The Phases of Quantum Chromodynamics, Kogut et al.  </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/baumann.pdf" style="text-decoration:none;"> Inflation and String Theory, Baumann et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/rickles.pdf" style="text-decoration:none;"> A Brief History of String Theory, Rickles </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mccoy.pdf" style="text-decoration:none;"> Advanced Statistical Mechanics, McCoy </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/west.pdf" style="text-decoration:none;"> Introduction to Supersymmetry and Supergravity, P. West </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/serre.pdf" style="text-decoration:none;"> Linear Representations of Finite Group, Serre </a></li>
 
 
 
