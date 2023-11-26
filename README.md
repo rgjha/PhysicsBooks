@@ -96,6 +96,19 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mccoy.pdf" style="text-decoration:none;"> Advanced Statistical Mechanics, McCoy </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/west.pdf" style="text-decoration:none;"> Introduction to Supersymmetry and Supergravity, P. West </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/serre.pdf" style="text-decoration:none;"> Linear Representations of Finite Group, Serre </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dray.pdf" style="text-decoration:none;"> Differential Forms and Geometry of General Relativity, Dray </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mehta.pdf" style="text-decoration:none;"> Random Matrices, Mehta </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/vilekin.pdf" style="text-decoration:none;"> Representations of Lie Groups and Special Functions, Vilekin </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/greensite.pdf" style="text-decoration:none;"> Introduction to the Confinement Problem, Greensite </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/elvang.pdf" style="text-decoration:none;"> Scattering Amplitudes in Gauge Theory and Gravity, Elvang et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/Aigner.pdf" style="text-decoration:none;"> Proofs from the Book, Aigner et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brezin.pdf" style="text-decoration:none;"> Large N expansion in Quantum Field Theory, Brezin et al. </a></li>
+
+                
+
+
+                
+
 
 
 
