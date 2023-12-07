@@ -103,6 +103,7 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/elvang.pdf" style="text-decoration:none;"> Scattering Amplitudes in Gauge Theory and Gravity, Elvang et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/Aigner.pdf" style="text-decoration:none;"> Proofs from the Book, Aigner et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brezin.pdf" style="text-decoration:none;"> Large N expansion in Quantum Field Theory, Brezin et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/vonNeumann.pdf" style="text-decoration:none;"> Mathematical Foundations of Quantum Mechanics, John von Neumann </a></li>
 
                 
 
