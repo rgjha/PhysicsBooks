@@ -104,6 +104,10 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/Aigner.pdf" style="text-decoration:none;"> Proofs from the Book, Aigner et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brezin.pdf" style="text-decoration:none;"> Large N expansion in Quantum Field Theory, Brezin et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/vonNeumann.pdf" style="text-decoration:none;"> Mathematical Foundations of Quantum Mechanics, John von Neumann </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pt_rg_zinn.pdf" style="text-decoration:none;"> Phase Transitions and Renormalization Group, Zinn-Justin </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/handbook_rmt.pdf" style="text-decoration:none;"> Oxford Hanbdook 
+                of Random Matrix Theory </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/quarks_nambu.pdf" style="text-decoration:none;"> Quarks, Y. Nambu </a></li>
 
                 
 
