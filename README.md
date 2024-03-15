@@ -112,6 +112,8 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/shuryak_qmb.pdf" style="text-decoration:none;"> Quantum Many-Body Physics in a Nutshell, E. Shuryak </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/williams.pdf" style="text-decoration:none;"> Explorations in Quantum Computing, Colin Williams </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/furusawa.pdf" style="text-decoration:none;"> Quantum Teleportation and Entanglement, Furusawa et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stillwell.pdf" style="text-decoration:none;"> Naive Lie Theory, J.Stillwell </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/moore_mertens.pdf" style="text-decoration:none;"> The Nature of Computation, Moore and Mertens </a></li>
 
 
                 
