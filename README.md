@@ -114,6 +114,12 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/furusawa.pdf" style="text-decoration:none;"> Quantum Teleportation and Entanglement, Furusawa et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stillwell.pdf" style="text-decoration:none;"> Naive Lie Theory, J.Stillwell </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/moore_mertens.pdf" style="text-decoration:none;"> The Nature of Computation, Moore and Mertens </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cc_christos.pdf" style="text-decoration:none;"> Computational Complexity, Papadimitriou </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/algo_spv.pdf" style="text-decoration:none;"> Algorithms, Dasgupta et al. </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stat_nut.pdf" style="text-decoration:none;"> Statistical Mechanics in a Nutshell, Peliti </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/golden_rg.pdf" style="text-decoration:none;"> Lectures on Phase Transitions and RG, Goldenfeld</a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_sakurai.pdf" style="text-decoration:none;"> Modern Quantum Mechanics, Sakurai</a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dirac_qm.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, Dirac</a></li>
 
 
                 
