@@ -1,4 +1,6 @@
 <ul>
+
+
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ang1.pdf" style="text-decoration:none;"> Quantum Theory of Angular Momentum, Varshalovich et al.  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bie.pdf" style="text-decoration:none;"> Angular Momentum in Quantum Physics, Biedenharn et al.  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sr.pdf" style="text-decoration:none;"> Collected Papers of Srinivasa Ramanujan  </a></li>
@@ -105,8 +107,7 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/brezin.pdf" style="text-decoration:none;"> Large N expansion in Quantum Field Theory, Brezin et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/vonNeumann.pdf" style="text-decoration:none;"> Mathematical Foundations of Quantum Mechanics, John von Neumann </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pt_rg_zinn.pdf" style="text-decoration:none;"> Phase Transitions and Renormalization Group, Zinn-Justin </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/handbook_rmt.pdf" style="text-decoration:none;"> Oxford Hanbdook 
-                of Random Matrix Theory </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/handbook_rmt.pdf" style="text-decoration:none;"> Oxford Handbook of Random Matrix Theory </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/quarks_nambu.pdf" style="text-decoration:none;"> Quarks, Y. Nambu </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/coleman_mbp.pdf" style="text-decoration:none;"> Introduction to Many-Body Physics, P. Coleman (book draft) </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/shuryak_qmb.pdf" style="text-decoration:none;"> Quantum Many-Body Physics in a Nutshell, E. Shuryak </a></li>
@@ -119,46 +120,10 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/golden_rg.pdf" style="text-decoration:none;"> Lectures on Phase Transitions and RG, Goldenfeld</a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_sakurai.pdf" style="text-decoration:none;"> Modern Quantum Mechanics, Sakurai</a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dirac_qm.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, Dirac</a></li>
-
-
-                
-
-
-
-
-                
-
-
-                
-
-                
-
-
-                
-
-
-                
-
-
- 
-
-                
-
-                 
-
-                
-
-                
-
-
-                
-
-
-                
-
-
-
-
-
-
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gribov.pdf" style="text-decoration:none;"> Strong Interactions of Hadrons at High Energies, Gribov</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/st_taylor.pdf" style="text-decoration:none;"> Scattering Theory, John Taylor</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpm.pdf" style="text-decoration:none;"> Quantum Phases of Matter, Sachdev </a></li>
+		
+		
+		
 </ul>
