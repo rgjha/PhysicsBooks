@@ -1,6 +1,4 @@
 <ul>
-
-
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ang1.pdf" style="text-decoration:none;"> Quantum Theory of Angular Momentum, Varshalovich et al.  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bie.pdf" style="text-decoration:none;"> Angular Momentum in Quantum Physics, Biedenharn et al.  </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sr.pdf" style="text-decoration:none;"> Collected Papers of Srinivasa Ramanujan  </a></li>
@@ -123,7 +121,4 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gribov.pdf" style="text-decoration:none;"> Strong Interactions of Hadrons at High Energies, Gribov</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/st_taylor.pdf" style="text-decoration:none;"> Scattering Theory, John Taylor</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpm.pdf" style="text-decoration:none;"> Quantum Phases of Matter, Sachdev </a></li>
-		
-		
-		
 </ul>
