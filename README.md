@@ -120,5 +120,8 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/dirac_qm.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, Dirac</a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/gribov.pdf" style="text-decoration:none;"> Strong Interactions of Hadrons at High Energies, Gribov</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/st_taylor.pdf" style="text-decoration:none;"> Scattering Theory, John Taylor</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_kaku.pdf" style="text-decoration:none;"> Quantum Field Theory, Michio Kaku</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpm.pdf" style="text-decoration:none;"> Quantum Phases of Matter, Sachdev </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/penrose_rtr.pdf" style="text-decoration:none;"> The Road to Reality, Penrose </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/smatrix_chew.pdf" style="text-decoration:none;"> S-Matrix Theory of Strong Interactions, Chew </a></li>
 </ul>
