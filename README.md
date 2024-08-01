@@ -124,4 +124,10 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qpm.pdf" style="text-decoration:none;"> Quantum Phases of Matter, Sachdev </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/penrose_rtr.pdf" style="text-decoration:none;"> The Road to Reality, Penrose </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/smatrix_chew.pdf" style="text-decoration:none;"> S-Matrix Theory of Strong Interactions, Chew </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/saur.pdf" style="text-decoration:none;"> Science and Ultimate Reality, Davies et al.  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/higham.pdf" style="text-decoration:none;"> Function of Matrices, Higham et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cushing.pdf" style="text-decoration:none;"> Theory Construction and Selection in Modern Physics, Cushing  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mbp_coleman.pdf" style="text-decoration:none;"> Introduction to Many-Body Physics, P. Coleman </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qftcc.pdf" style="text-decoration:none;"> Quantum Field Theory and Critical Phenomena, Zinn-Justin </a></li>
+		
 </ul>
