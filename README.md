@@ -129,5 +129,6 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cushing.pdf" style="text-decoration:none;"> Theory Construction and Selection in Modern Physics, Cushing  </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mbp_coleman.pdf" style="text-decoration:none;"> Introduction to Many-Body Physics, P. Coleman </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qftcc.pdf" style="text-decoration:none;"> Quantum Field Theory and Critical Phenomena, Zinn-Justin </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_duncan.pdf" style="text-decoration:none;"> The Conceptual Framework of Quantum Field Theory, A. Duncan </a></li>
 		
 </ul>
