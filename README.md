@@ -23,7 +23,7 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/engel.pdf" style="text-decoration:none;"> Problem-Solving Strategies, Engel </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/heisenberg.pdf" style="text-decoration:none;"> Physics and Philosophy, Heisenberg </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/horowitz.pdf" style="text-decoration:none;"> Black Holes in Higher Dimensions, Horowitz </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/menon.pdf" style="text-decoration:none;"> Renormnalization Group Theory, Menon </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/menon.pdf" style="text-decoration:none;"> Renormalization Group Theory, Menon </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_sred.pdf" style="text-decoration:none;"> Quantum Field Theory, Srednicki </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/shuryak.pdf" style="text-decoration:none;"> QCD Vacuum, Hadrons, and Superdense matter, Shuryak </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/tung.pdf" style="text-decoration:none;"> Solutions to Problems in Group Theory by Tung </a></li>
@@ -58,7 +58,7 @@
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/lss_he.pdf" style="text-decoration:none;"> The large scale structure of space-time, Hawking and Ellis </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/blackholes_sc.pdf" style="text-decoration:none;"> The Mathematical Theory of Black Holes, S. Chandrasekhar </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/baxter.pdf" style="text-decoration:none;"> Exactly solved models in Statistical Mechanics, Baxter </a></li>
-                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/msc_levy.pdf" style="text-decoration:none;"> Magenetism and Superconductivity, Levy </a></li>
+                <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/msc_levy.pdf" style="text-decoration:none;"> Magnetism and Superconductivity, Levy </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/altland.pdf" style="text-decoration:none;"> Condensed Matter Field Theory, Altland et al. </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_nair.pdf" style="text-decoration:none;"> Quantum Field Theory, V.P.Nair </a></li>
                 <li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_ga.pdf" style="text-decoration:none;"> Quantum Field Theory for the Gifted Amateur, Lancaster et al. </a></li>
@@ -130,5 +130,7 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mbp_coleman.pdf" style="text-decoration:none;"> Introduction to Many-Body Physics, P. Coleman </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qftcc.pdf" style="text-decoration:none;"> Quantum Field Theory and Critical Phenomena, Zinn-Justin </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_duncan.pdf" style="text-decoration:none;"> The Conceptual Framework of Quantum Field Theory, A. Duncan </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/source_qm.pdf" style="text-decoration:none;"> Sources of Quantum Mechanics, edited by Waerdan </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pi_zinn.pdf" style="text-decoration:none;"> Path Integrals in Quantum Mechanics, Zinn-Justin</a></li>
 		
 </ul>
