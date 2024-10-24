@@ -132,5 +132,12 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_duncan.pdf" style="text-decoration:none;"> The Conceptual Framework of Quantum Field Theory, A. Duncan </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/source_qm.pdf" style="text-decoration:none;"> Sources of Quantum Mechanics, edited by Waerdan </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pi_zinn.pdf" style="text-decoration:none;"> Path Integrals in Quantum Mechanics, Zinn-Justin</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sobol.pdf" style="text-decoration:none;"> The Monte Carlo method, I.M.Sobol</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_liboff.pdf" style="text-decoration:none;"> Introductory Quantum Mechanics, Liboff</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qcv.pdf" style="text-decoration:none;"> Quantum Continuous Variables, Serafini </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bhatia.pdf" style="text-decoration:none;"> Matrix Analysis, Bhatia</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pqi.pdf" style="text-decoration:none;"> The Physics of Quantum Information, Bouwmeester</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_shankar.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, R. Shankar</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_peres.pdf" style="text-decoration:none;"> Quantum Theory: Concepts and Methods, Peres</a></li>
 		
 </ul>
