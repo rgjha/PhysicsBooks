@@ -132,12 +132,20 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_duncan.pdf" style="text-decoration:none;"> The Conceptual Framework of Quantum Field Theory, A. Duncan </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/source_qm.pdf" style="text-decoration:none;"> Sources of Quantum Mechanics, edited by Waerdan </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pi_zinn.pdf" style="text-decoration:none;"> Path Integrals in Quantum Mechanics, Zinn-Justin</a></li>
-		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sobol.pdf" style="text-decoration:none;"> The Monte Carlo method, I.M.Sobol</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/sobol.pdf" style="text-decoration:none;"> The Monte Carlo method, Sobol</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_liboff.pdf" style="text-decoration:none;"> Introductory Quantum Mechanics, Liboff</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qcv.pdf" style="text-decoration:none;"> Quantum Continuous Variables, Serafini </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/bhatia.pdf" style="text-decoration:none;"> Matrix Analysis, Bhatia</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/pqi.pdf" style="text-decoration:none;"> The Physics of Quantum Information, Bouwmeester</a></li>
-		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_shankar.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, R. Shankar</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_shankar.pdf" style="text-decoration:none;"> Principles of Quantum Mechanics, Shankar</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_peres.pdf" style="text-decoration:none;"> Quantum Theory: Concepts and Methods, Peres</a></li>
-		
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc_yanofsky.pdf" style="text-decoration:none;"> Quantum Computing for Computer Scientists, Yanofsky</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc_rieffel.pdf" style="text-decoration:none;"> Quantum Computing, Rieffel</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qc_nakahara.pdf" style="text-decoration:none;"> Quantum Computing, Nakahara</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ccqc_hardy.pdf" style="text-decoration:none;"> Classical and Quantum Computing, Hardy et al</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cerf.pdf" style="text-decoration:none;"> Quantum Informationwith continuous variables, Cerf</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/benenti1.pdf" style="text-decoration:none;"> Principles of Quantum Computation and Information, Benenti et al. Vol 1</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/benenti2.pdf" style="text-decoration:none;"> Principles of Quantum Computation and Information, Benenti et al. Vol 2</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qml_wittek.pdf" style="text-decoration:none;"> Quantum Machine Learning, Wittek</a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qis_vedral.pdf" style="text-decoration:none;"> Introduction to Quantum Information Science, Vedral</a></li>	
 </ul>
