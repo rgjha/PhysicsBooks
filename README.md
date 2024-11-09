@@ -148,4 +148,14 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/benenti2.pdf" style="text-decoration:none;"> Principles of Quantum Computation and Information, Benenti et al. Vol 2</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qml_wittek.pdf" style="text-decoration:none;"> Quantum Machine Learning, Wittek</a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qis_vedral.pdf" style="text-decoration:none;"> Introduction to Quantum Information Science, Vedral</a></li>	
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_bes.pdf" style="text-decoration:none;"> Quantum Mechanics, Daniel R. Bes </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_dimock.pdf" style="text-decoration:none;"> Quantum Mechanics and Quantum Field Theory, J. Dimock </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_longair.pdf" style="text-decoration:none;"> Quantum Concepts in Physics, M. Longair </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_miller.pdf" style="text-decoration:none;"> Quantum Mechanics for Scientists and Engineers, David Miller </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_phillips.pdf" style="text-decoration:none;"> Introduction to Quantum Mechanics, A.C.Phillips </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/lazy.pdf" style="text-decoration:none;"> Lazy Universe - Principle of Least Action, J. Coppersmith </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/comp_feyn.pdf" style="text-decoration:none;"> Feynman Lectures on Computation </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/grav_feyn.pdf" style="text-decoration:none;"> Feynman Lectures on Gravitation </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/fermi.pdf" style="text-decoration:none;"> Thermodynamics, Enrico Fermi </a></li>
+		
 </ul>
