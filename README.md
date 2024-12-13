@@ -157,5 +157,7 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/comp_feyn.pdf" style="text-decoration:none;"> Feynman Lectures on Computation </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/grav_feyn.pdf" style="text-decoration:none;"> Feynman Lectures on Gravitation </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/fermi.pdf" style="text-decoration:none;"> Thermodynamics, Enrico Fermi </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_fock.pdf" style="text-decoration:none;"> Quantum Mechanics, V.A.Fock </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/chaos_gutzwiller.pdf" style="text-decoration:none;"> Chaos in Classical and Quantum Mechanics, M. Gutzwiller </a></li>
 		
 </ul>
