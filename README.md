@@ -165,19 +165,6 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qcfe.pdf" style="text-decoration:none;"> Quantum Computing for Everyone - Chris Bernhardt </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qci_Marinescu.pdf" style="text-decoration:none;"> Classical and Quantum Information - Dan Marinescu et al. </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/view_schro.epub" style="text-decoration:none;"> My view of the world - Schrodinger </a></li>
-		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stt.pdf" style="text-decoration:none;"> Pauli and the Spin-Statistics Theorem - Duck and Sudarshan </a></li>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stt.pdf" style="text-decoration:none;"> Pauli and the Spin-Statistics Theorem - Duck and Sudarshan </a></li>		
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_faddeev.pdf" style="text-decoration:none;"> Lectures on Quantum Mechanics forMathematics Students - Faddeev et al.  </a></li>
 </ul>
