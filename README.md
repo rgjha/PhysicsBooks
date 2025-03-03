@@ -166,5 +166,19 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qci_Marinescu.pdf" style="text-decoration:none;"> Classical and Quantum Information - Dan Marinescu et al. </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/view_schro.epub" style="text-decoration:none;"> My view of the world - Schrodinger </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stt.pdf" style="text-decoration:none;"> Pauli and the Spin-Statistics Theorem - Duck and Sudarshan </a></li>		
-		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_faddeev.pdf" style="text-decoration:none;"> Lectures on Quantum Mechanics forMathematics Students - Faddeev et al.  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_faddeev.pdf" style="text-decoration:none;"> Lectures on Quantum Mechanics for Mathematics Students - Faddeev et al.  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_feynman.pdf" style="text-decoration:none;"> Quantum Mechanics and Path Integrals, Feynman et al.  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_marino.pdf" style="text-decoration:none;"> Advanced Topics in Quantum Mechanics, Marino </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_marino.pdf" style="text-decoration:none;"> Introduction to Topological Quantum Computation, Pachos </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qiqm.pdf" style="text-decoration:none;"> Quantum Information Meets Quantum Matter, Zeng et al.  </a></li>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 </ul>
