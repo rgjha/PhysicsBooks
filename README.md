@@ -171,14 +171,11 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_marino.pdf" style="text-decoration:none;"> Advanced Topics in Quantum Mechanics, Marino </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_marino.pdf" style="text-decoration:none;"> Introduction to Topological Quantum Computation, Pachos </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qiqm.pdf" style="text-decoration:none;"> Quantum Information Meets Quantum Matter, Zeng et al.  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/spiegel_com.pdf" style="text-decoration:none;"> Complex Variables, Spiegel et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Pauli.pdf" style="text-decoration:none;"> General Principles of Quantum Mechanics, Pauli  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/tuu_Bohm.pdf" style="text-decoration:none;"> The undivided Universe, Bohm et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qcs_Mermin.pdf" style="text-decoration:none;"> Quantum Computer Science, Mermin </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Gottfried.pdf" style="text-decoration:none;"> Quantum Mechanics: Fundamentals, Gottfried et al. </a></li>
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 </ul>
