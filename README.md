@@ -177,6 +177,10 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/tuu_Bohm.pdf" style="text-decoration:none;"> The undivided Universe, Bohm et al. </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qcs_Mermin.pdf" style="text-decoration:none;"> Quantum Computer Science, Mermin </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Gottfried.pdf" style="text-decoration:none;"> Quantum Mechanics: Fundamentals, Gottfried et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_d_Espagnat.pdf" style="text-decoration:none;"> Conceptual Foundations of Quantum Mechanics, d'Espagnat  </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qsm_Schieve.pdf" style="text-decoration:none;"> Quantum Statistical Mechanics, Schieve et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_AulettaParisi.pdf" style="text-decoration:none;"> The Quantum Mechanics Conundrum, Auletta </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_con.pdf" style="text-decoration:none;"> Quantum Mechanics, Auletta, Fortunato, Parisi </a></li>
 		
 
 </ul>
