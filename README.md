@@ -181,6 +181,17 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qsm_Schieve.pdf" style="text-decoration:none;"> Quantum Statistical Mechanics, Schieve et al. </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_AulettaParisi.pdf" style="text-decoration:none;"> The Quantum Mechanics Conundrum, Auletta </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_con.pdf" style="text-decoration:none;"> Quantum Mechanics, Auletta, Fortunato, Parisi </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/stanley.pdf" style="text-decoration:none;"> Introduction to Phase Transitions and Critical Phenomena, Stanley </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/cqm_Duncan1.pdf" style="text-decoration:none;"> Constructing Quantum Mechanics Vol. 1, Duncan et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/collins_qcd.pdf" style="text-decoration:none;"> Fundamentals of perturbative QCD, Collins </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/ising_mccoy_wu.pdf" style="text-decoration:none;"> Two-dimensional Ising model, McCoy and Wu </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_cm_shankar.pdf" style="text-decoration:none;"> Quantum Field Theory and Condensed Matter, Shankar </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Hall.pdf" style="text-decoration:none;"> Quantum Theory for Mathematicians, Hall </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_Ryder.pdf" style="text-decoration:none;"> Quantum Field Theory, Ryder </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Golub.pdf" style="text-decoration:none;"> Quantum Mechanics (Historical foundations), Golub et al. </a></li>
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mqm_Zweibach.pdf" style="text-decoration:none;"> Mastering Quantum Mechanics, Zweibach </a></li>
+
+		% 
 		
 
 </ul>
