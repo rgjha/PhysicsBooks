@@ -188,9 +188,7 @@
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Hall.pdf" style="text-decoration:none;"> Quantum Theory for Mathematicians, Hall </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_Ryder.pdf" style="text-decoration:none;"> Quantum Field Theory, Ryder </a></li>
 		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qm_Golub.pdf" style="text-decoration:none;"> Quantum Mechanics (Historical foundations), Golub et al. </a></li>
-		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mqm_Zweibach.pdf" style="text-decoration:none;"> Mastering Quantum Mechanics, Zweibach </a></li>
-
-		% 
-		
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/mqm_Zweibach.pdf" style="text-decoration:none;"> Mastering Quantum Mechanics, Zweibach </a></li>	
+		<li><a target="_blank" href="https://github.com/rgjha/PhysicsBooks/blob/master/qft_ps.pdf" style="text-decoration:none;"> An Introduction to Quantum Field Theory, Peskin and Schroeder </a></li>		
 
 </ul>
